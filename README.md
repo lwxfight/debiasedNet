@@ -1,7 +1,7 @@
 # DTSF-Net
 [PR 2025] From Temporal Thumbnail to Semantics: Debiasing Multi-View Action Recognition
 [[paper](https:)]   
-![figure](/)
+![figure](/framework.pdf)
 # From Temporal Thumbnail to Semantics: Debiasing Multi-View Action Recognition
 <!-- ## News🚀
 * **2024.09.27**: Our code is released.
