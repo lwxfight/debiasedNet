@@ -37,7 +37,7 @@ We are very grateful for the Grounding DINO approach, which has been instrumenta
 @inproceedings{DTSF2025,
   title={From Temporal Thumbnail to Semantics: Debiasing Multi-View Action},
   author={Wei Feng, Zixian Zhu, Wenxuan Liu, Xu Wang, Bingyi Liu, Xiaohan Yu, Xian Zhong},
-  booktitle={Proc. {IEEE/CVF} Conf. Comput. Vis. Pattern Recognit.},
+  booktitle={Pattern Recognit.},
   year={2025}
 }
 ```
